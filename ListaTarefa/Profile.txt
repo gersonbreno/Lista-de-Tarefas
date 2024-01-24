@@ -1,1 +1,0 @@
-web: gunicorn ListaTarefa.wsgi --log-file -
